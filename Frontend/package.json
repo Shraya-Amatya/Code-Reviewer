@@ -10,11 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.7.9",
     "install": "^0.13.0",
     "npm": "^11.1.0",
     "prismjs": "^1.29.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-markdown": "^9.0.3",
     "react-simple-code-editor": "^0.14.1",
     "sass": "^1.84.0",
     "styles": "^0.2.1"
