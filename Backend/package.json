@@ -1,0 +1,17 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "server.js",
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "author": "Shraya Amatya",
+  "license": "MIT"
+}
