@@ -1,6 +1,6 @@
-Below is a concise README with added details about using the Gemini API and an overview of the code reviewer:
 
-```markdown
+
+
 # Code Reviewer
 
 A full-stack code review application that allows users to paste code, receive an AI-powered review, and view detailed feedback rendered in Markdown. The project consists of a React frontend and an Express backend that leverages the Gemini API for advanced code analysis.
@@ -86,7 +86,5 @@ A full-stack code review application that allows users to paste code, receive an
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
 
----
 This README provides a clear overview of the project, its features, and how to get started. Enjoy building your AI Code Reviewer!
