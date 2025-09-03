@@ -22,17 +22,11 @@ A full-stack code review application that allows users to paste code, receive an
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (v14 or higher recommended)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Node.js](https://nodejs.org/) 
+- [npm](https://www.npmjs.com/) 
 
 ## Usage
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/your-username/code-reviewer.git
-   cd code-reviewer
-   ```
 
 
 
